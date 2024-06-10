@@ -2346,7 +2346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datenlord/async-rdma</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy to use RDMA API in Rust async</div>
@@ -2602,7 +2602,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jun 2024, 10:36:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jun 2024, 11:21:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
