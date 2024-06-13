@@ -2324,7 +2324,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>madsys-dev/deepseekv2-profile</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2372,7 +2372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>madsys-dev/async-ucx</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Asynchronous Rust bindings for UCX</div>
@@ -2425,7 +2425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adam-maj/tiny-gpu</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimal GPU design in Verilog to learn how GPUs work from the ground up</div>
@@ -2472,7 +2472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phil-opp/blog_os</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Writing an OS in Rust</div>
@@ -2569,7 +2569,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jun 2024, 19:17:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2024, 20:36:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
