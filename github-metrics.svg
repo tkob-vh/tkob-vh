@@ -2329,7 +2329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>learnbyexample/scripting_course</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2379,7 +2379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codeplaysoftware/portBLAS</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An implementation of BLAS using the SYCL open standard.</div>
@@ -2432,7 +2432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>madsys-dev/deepseekv2-profile</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2480,7 +2480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>madsys-dev/async-ucx</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Asynchronous Rust bindings for UCX</div>
@@ -2577,7 +2577,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jun 2024, 13:18:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jun 2024, 14:27:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
