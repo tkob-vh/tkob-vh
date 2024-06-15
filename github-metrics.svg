@@ -2334,7 +2334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AdamNiederer/faster</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SIMD for humans</div>
@@ -2387,7 +2387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ggerganov/whisper.cpp</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Port of OpenAI's Whisper model in C/C++</div>
@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DefTruth/CUDA-Learn-Notes</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎉CUDA 笔记 / 大模型手撕CUDA / C++笔记，更新随缘: flash_attn、sgemm、sgemv、warp reduce、block reduce、dot product、elementwise、softmax、layernorm、rmsnorm、hist etc.</div>
@@ -2593,7 +2593,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jun 2024, 14:24:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jun 2024, 15:19:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
