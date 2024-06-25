@@ -2314,7 +2314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bilibili/SMGo</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shang-Mi cipher library. Constant-time implementation of SM2 and SM4.</div>
@@ -2367,7 +2367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hpcaitech/ColossalAI</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Making large AI models cheaper, faster and more accessible</div>
@@ -2576,7 +2576,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2024, 16:24:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2024, 17:20:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
