@@ -2319,7 +2319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ggerganov/ggml</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tensor library for machine learning</div>
@@ -2372,7 +2372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AnswerDotAI/gpu.cpp</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight library for portable low-level GPU computation using WebGPU.</div>
@@ -2478,7 +2478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LadybirdBrowser/ladybird</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Truly independent web browser</div>
@@ -2581,7 +2581,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Jul 2024, 21:22:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jul 2024, 22:17:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
