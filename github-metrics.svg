@@ -2329,7 +2329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>checkpoint-restore/criu</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Checkpoint/Restore tool</div>
@@ -2382,7 +2382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apernet/OpenGFW</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux</div>
@@ -2592,7 +2592,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Aug 2024, 22:18:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Aug 2024, 23:20:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
