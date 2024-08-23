@@ -2329,7 +2329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-telemetry/opentelemetry-ebpf-profiler</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)</div>
@@ -2382,7 +2382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elder-plinius/L1B3RT45</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS</div>
@@ -2579,7 +2579,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2024, 04:21:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2024, 05:18:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
