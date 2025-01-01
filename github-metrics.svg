@@ -2313,7 +2313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NoInitRD/Memory-Dump-UEFI</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A UEFI application for dumping the contents of RAM.</div>
@@ -2366,7 +2366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xoriors/rencfs</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An encrypted file system written in Rust that is mounted with FUSE on Linux. It can be used to create encrypted directories</div>
@@ -2575,7 +2575,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Jan 2025, 18:22:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jan 2025, 19:17:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
