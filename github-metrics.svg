@@ -2323,7 +2323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ibogosavljevic/fiya</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FlameGraphs in Your App</div>
@@ -2376,7 +2376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dimforge/nalgebra</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linear algebra library for Rust.</div>
@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-ndarray/ndarray</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations</div>
@@ -2585,7 +2585,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jan 2025, 23:22:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2025, 00:26:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
