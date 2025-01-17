@@ -2323,7 +2323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>purpleprotocol/mimalloc_rust</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust wrapper over Microsoft's MiMalloc memory allocator</div>
@@ -2376,7 +2376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/mimalloc</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">mimalloc is a compact general purpose allocator with excellent performance.</div>
@@ -2585,7 +2585,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jan 2025, 06:19:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jan 2025, 07:20:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
