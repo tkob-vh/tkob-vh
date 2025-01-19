@@ -2386,7 +2386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eclipse-iceoryx/iceoryx2</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust</div>
@@ -2439,7 +2439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PyO3/pyo3</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust bindings for the Python interpreter</div>
@@ -2595,7 +2595,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jan 2025, 20:37:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2025, 21:20:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
