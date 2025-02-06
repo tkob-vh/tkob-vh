@@ -2371,7 +2371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>waydroid/waydroid</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.</div>
@@ -2424,7 +2424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sarah-quinones/faer-rs</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Linear algebra foundation for the Rust programming language</div>
@@ -2477,7 +2477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yandex/perforator</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Perforator is a cluster-wide continuous profiling tool designed for large data centers</div>
@@ -2580,7 +2580,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Feb 2025, 14:31:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2025, 15:20:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
