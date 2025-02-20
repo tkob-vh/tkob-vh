@@ -2324,7 +2324,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yosefk/funtrace</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, small C/C++ function call tracer for x86/Linux, supports clang &amp; gcc, ftrace, threads, exceptions &amp; shared libraries</div>
@@ -2586,7 +2586,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Feb 2025, 12:26:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Feb 2025, 13:21:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
