@@ -2319,7 +2319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EzequielRamis/zimdjson</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Parsing gigabytes of JSON per second. Zig port of simdjson with fundamental features.</div>
@@ -2478,7 +2478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>giacomo-b/rust-stakeholder</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate impressive-looking terminal output to look busy when stakeholders walk by</div>
@@ -2531,7 +2531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sinclairtarget/git-who</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Git blame for file trees</div>
@@ -2581,7 +2581,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Mar 2025, 12:27:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2025, 13:23:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
