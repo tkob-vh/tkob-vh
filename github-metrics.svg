@@ -2323,7 +2323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/cuda-python</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CUDA Python: Performance meets Productivity</div>
@@ -2476,7 +2476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fast/fastrace</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tracing library 10~100x faster than others.</div>
@@ -2579,7 +2579,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Apr 2025, 20:48:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Apr 2025, 21:32:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
