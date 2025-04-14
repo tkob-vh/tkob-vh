@@ -2303,7 +2303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aya-rs/aya</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.</div>
@@ -2356,7 +2356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nnethercote/dhat-rs</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Heap profiling and ad hoc profiling for Rust programs.</div>
@@ -2409,7 +2409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jart/cosmopolitan</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">build-once run-anywhere c library</div>
@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/nsync</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nsync is a C library that exports various synchronization primitives, such as mutexes</div>
@@ -2565,7 +2565,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Apr 2025, 21:33:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Apr 2025, 22:25:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
