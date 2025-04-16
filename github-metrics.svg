@@ -2472,7 +2472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jart/cosmopolitan</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">build-once run-anywhere c library</div>
@@ -2525,7 +2525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/nsync</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">nsync is a C library that exports various synchronization primitives, such as mutexes</div>
@@ -2575,7 +2575,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Apr 2025, 23:26:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2025, 00:31:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
