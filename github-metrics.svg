@@ -2323,7 +2323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tile-ai/tilelang</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels</div>
@@ -2376,7 +2376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>freeman-jiang/beatsync</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔊 High-precision web player for multi-device audio playback and spatial audio.</div>
@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HazyResearch/ThunderKittens</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tile primitives for speedy kernels</div>
@@ -2585,7 +2585,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 May 2025, 09:57:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 May 2025, 11:12:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
