@@ -2313,7 +2313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MiniMax-AI/awesome-minimax-integrations</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Explore these applications integrating MiniMax's multimodal API to see how text, vision, and speech processing capabilities are incorporated into various software.</div>
@@ -2354,7 +2354,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/tokenizers</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</div>
@@ -2407,7 +2407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dipampaul17/KVSplit</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run larger LLMs with longer contexts on Apple Silicon by using differentiated precision for KV cache quantization. KVSplit enables 8-bit keys &amp; 4-bit values, reducing memory by 59% with &lt;1% quality loss. Includes benchmarking, visualization, and one-command setup. Optimized for M1/M2/M3 Macs with Metal support.</div>
@@ -2563,7 +2563,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 May 2025, 00:32:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 May 2025, 01:21:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
