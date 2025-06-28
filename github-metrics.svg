@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vipshop/cache-dit</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤗CacheDiT: A Training-free and Easy-to-use Cache Acceleration Toolbox for Diffusion Transformers🔥</div>
@@ -2487,7 +2487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IBM/triton-dejavu</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Framework to reduce autotune overhead to zero for well known deployments.</div>
@@ -2590,7 +2590,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jun 2025, 18:25:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2025, 19:19:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
