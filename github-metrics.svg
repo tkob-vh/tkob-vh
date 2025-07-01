@@ -2308,7 +2308,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liuhuadai/ThinkSound</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PyTorch implementation of [ThinkSound], a unified framework for generating audio from any modality, guided by Chain-of-Thought (CoT) reasoning.</div>
@@ -2408,7 +2408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vipshop/cache-dit</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤗A Training-free and Easy-to-use Cache Acceleration Toolbox for DiTs: DBCache, DBPrune, TaylorSeer, FBCache, etc🔥</div>
@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IBM/triton-dejavu</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Framework to reduce autotune overhead to zero for well known deployments.</div>
@@ -2564,7 +2564,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Jul 2025, 18:29:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jul 2025, 19:22:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
