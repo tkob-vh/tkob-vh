@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>richardscollin/tmux-rs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust port of tmux</div>
@@ -2487,7 +2487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thu-ml/SageAttention</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Quantized Attention achieves speedup of 2-5x and 3-11x compared to FlashAttention and xformers, without lossing end-to-end metrics across language, image, and video models.</div>
@@ -2590,7 +2590,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jul 2025, 13:26:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jul 2025, 14:35:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
