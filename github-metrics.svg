@@ -2318,7 +2318,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ByteDance-Seed/Triton-distributed</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed Compiler based on Triton for Parallel Systems</div>
@@ -2530,7 +2530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pytorch-labs/applied-ai</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Applied AI experiments and examples for PyTorch</div>
@@ -2580,7 +2580,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jul 2025, 20:55:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2025, 21:41:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
