@@ -2313,7 +2313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/mlperf-common</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NVIDIA's launch, startup, and logging scripts used by our MLPerf Training and HPC submissions</div>
@@ -2575,7 +2575,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Aug 2025, 03:21:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Aug 2025, 04:28:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
