@@ -2303,7 +2303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SubtitleEdit/subtitleedit</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">the subtitle editor :)</div>
@@ -2356,7 +2356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linkedin/Liger-Kernel</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Efficient Triton Kernels for LLM Training</div>
@@ -2409,7 +2409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ByteDance-Seed/VeOmni</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VeOmni: Scaling any Modality Model Training to any Accelerators with PyTorch native Training Framework</div>
@@ -2462,7 +2462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KuangjuX/NVSHMEM-Tutorial</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NVSHMEM‑Tutorial: Build a DeepEP‑like GPU Buffer</div>
@@ -2559,7 +2559,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2025, 06:24:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2025, 07:23:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
