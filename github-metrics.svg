@@ -2318,7 +2318,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/nvidia-dlfw-inspect</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The tool facilitates debugging convergence issues and testing new algorithms and recipes for training LLMs using Nvidia libraries such as Transformer Engine, Megatron-LM, and NeMo.</div>
@@ -2371,7 +2371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FFmpeg/asm-lessons</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FFMPEG Assembly Language Lessons</div>
@@ -2412,7 +2412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sgl-project/SpecForge</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Train speculative decoding models effortlessly and port them smoothly to SGLang serving.</div>
@@ -2568,7 +2568,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Aug 2025, 06:22:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Aug 2025, 07:22:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
