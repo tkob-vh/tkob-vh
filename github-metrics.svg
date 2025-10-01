@@ -2313,7 +2313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RiseAI-Sys/ParaVAE</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed parallel 3D-Causal-VAE for efficient training and inference</div>
@@ -2419,7 +2419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ashvardanian/StringZilla</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, &amp; Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, &amp; SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memory ops 🦖</div>
@@ -2575,7 +2575,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Oct 2025, 11:44:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2025, 12:28:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
