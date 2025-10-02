@@ -2424,7 +2424,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ashvardanian/StringZilla</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, &amp; Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, &amp; SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memory ops 🦖</div>
@@ -2580,7 +2580,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Oct 2025, 15:22:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2025, 16:31:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
