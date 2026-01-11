@@ -2333,7 +2333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NTT123/cute-viz</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cute layout visualization</div>
@@ -2492,7 +2492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/TileGym</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Helpful kernel tutorials and examples for tile-based GPU programming</div>
@@ -2595,7 +2595,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jan 2026, 17:27:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jan 2026, 18:28:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
