@@ -2333,7 +2333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ArthurinRUC/cutlass-notes</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">From Minimal GEMM to Everything</div>
@@ -2486,7 +2486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/kernels</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build compute kernels and load them from the Hub.</div>
@@ -2589,7 +2589,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Mar 2026, 15:00:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Mar 2026, 15:40:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
