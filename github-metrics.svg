@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iovisor/bcc</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</div>
@@ -2381,7 +2381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intel/perfmon</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2435,7 +2435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonhoo/inferno</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust port of FlameGraph</div>
@@ -2591,7 +2591,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Mar 2026, 06:30:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Mar 2026, 07:29:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
