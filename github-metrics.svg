@@ -2313,7 +2313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fzyzcjy/torch_memory_saver</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Allow torch tensor memory to be released and resumed later</div>
@@ -2519,7 +2519,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dsl-learn/cuda-magic</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">fake CUTLASS to get peformance</div>
@@ -2563,7 +2563,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Apr 2026, 21:49:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Apr 2026, 23:18:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
