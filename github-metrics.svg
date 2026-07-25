@@ -2328,7 +2328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>olealgoritme/gpuwatch</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terminal GPU core + VRAM temperature watcher for Linux - reads sensors directly from hardware (no NVML). TUI, ASCII &amp; JSON. Supports NVIDIA RTX 5090 (GDDR7).</div>
@@ -2590,7 +2590,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jul 2026, 03:17:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2026, 05:00:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
